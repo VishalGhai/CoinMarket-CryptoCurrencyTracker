@@ -2,7 +2,7 @@
 
 ## A react-native app built to track the fresh rates of cryptocurrencies.
 
-#### <a href="https://github.com/VishalGhai/CoinMarket-CryptoCurrencyTracker/raw/master/CoinMarket.gif">Download APK file here !!</a>
+#### <a href="https://github.com/VishalGhai/CoinMarket-CryptoCurrencyTracker/raw/master/CoinMarket.apk">Download APK file here !!</a>
 
 <img width="300px" src="https://github.com/VishalGhai/CoinMarket-CryptoCurrencyTracker/blob/master/CoinMarket.gif"/>
 
